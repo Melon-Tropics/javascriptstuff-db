@@ -1,6 +1,8 @@
 JavaScript Stuff DB
 ---
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/javascriptstuff-db.svg)](https://greenkeeper.io/)
+
 This is the data for the lists on [JavaScript Stuff](https://www.javascriptstuff.com/).
 
 It's a database of JavaScript tools, example code, tutorials, etc. Projects get extended with metadata from the GitHub API.
