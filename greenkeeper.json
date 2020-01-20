@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "data/package.json",
+        "dist/package.json",
+        "gather/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
